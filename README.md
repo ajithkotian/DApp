@@ -1,4 +1,6 @@
 - [Deploy your own Crowdfunding DApp](#deploy-your-own-crowdfunding-dapp)
+  - [What are we going to learn?](#what-are-we-going-to-learn)
+  - [Who is going to present this session?](#who-is-going-to-present-this-session)
 - [Pre-requisites](#pre-requisites)
 - [Useful links required for the session](#useful-links-required-for-the-session)
   - [Resources for CrowdFund Decentralized Application](#resources-for-crowdfund-decentralized-application)
@@ -10,13 +12,16 @@
 # Deploy your own Crowdfunding DApp
 The new millennia are all about social living and sharing economy; from homestays, hotels, cars and product development; social development, community creation and crowdfunding is part and parcel of our daily lives. ‘Crowdfunding’ as a channel for product development and for generating promising sales which has been used for more than a decade a now. Our goal is to move these channels to web3 space. We will be creating a crowdfunding campaign through a smart contract with objective of raising funds through the decentralized web3 world.  
 
-What are we going to learn?
+## What are we going to learn?
 1.	Nuances of a crowdfunding smart contract. 
 2.	Deploy the smart contract 
 3.	Create a campaign over an online web3 platform 
 4.	Funding a campaign 
 5.	Withdrawal of funds collected in a campaign 
 
+## Who is going to present this session?
+
+The session will be presented by [Dipesh Sukhani](https://dipeshsukhani.dev/) and [Pari Tomar](https://www.linkedin.com/in/pari-tomar-8b1370187/) from [UV Labs](https://www.linkedin.com/company/uv-labs/)
 
 # Pre-requisites
 
