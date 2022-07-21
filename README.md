@@ -31,7 +31,7 @@ The session will be presented by [Dipesh Sukhani](https://dipeshsukhani.dev/) an
 
 # Useful links required for the session
 
-[Useful Links provided by Presenter](https://gist.github.com/paritomarrr/14d6fd028bc423a23c6703b1ed3bd439#file-crowdfund-dapp-md)
+[Useful Links provided by Presenters](https://gist.github.com/paritomarrr/14d6fd028bc423a23c6703b1ed3bd439#file-crowdfund-dapp-md)
 
 # Steps
 
