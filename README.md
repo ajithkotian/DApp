@@ -3,7 +3,6 @@
   - [Who is going to present this session?](#who-is-going-to-present-this-session)
 - [Pre-requisites](#pre-requisites)
 - [Useful links required for the session](#useful-links-required-for-the-session)
-  - [Resources for CrowdFund Decentralized Application](#resources-for-crowdfund-decentralized-application)
 - [Steps](#steps)
   - [Crowdfunding smart contract](#crowdfunding-smart-contract)
   - [How to transfer testnet Build Bear tokens](#how-to-transfer-testnet-build-bear-tokens)
@@ -33,14 +32,6 @@ The session will be presented by [Dipesh Sukhani](https://dipeshsukhani.dev/) an
 # Useful links required for the session
 
 [Useful Links provided by Presenter](https://gist.github.com/paritomarrr/14d6fd028bc423a23c6703b1ed3bd439#file-crowdfund-dapp-md)
-
-## Resources for CrowdFund Decentralized Application
-
-- TestNet Faucet: [Build Bear Faucet BB ETH Faucet](https://faucet.buildbear.io/angry-goodall-693279)
-- Web3 DApp: [Crowdfunding Web3 DApp](https://crowdfunddapp.netlify.app/)
-- Source Code: [Github Code](https://github.com/UV-Labs/crowdfund-dapp)
-- Smart Contract opened in Remix Ethereum IDE: [Campaign Smart Contract](https://remix.ethereum.org/#url=https://github.com/UV-Labs/crowdfund-dapp/blob/main/contracts/Campaign.sol&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js)
-
 
 # Steps
 
